@@ -1,0 +1,14 @@
+streamlit
+pandas
+matplotlib
+seaborn
+together
+pillow
+pytesseract
+pdfplumber
+python-magic
+PyMuPDF 
+fitz 
+pdf2image
+python-docx
+openpyxl
