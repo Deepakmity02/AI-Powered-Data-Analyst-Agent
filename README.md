@@ -26,18 +26,18 @@ User → Streamlit App → Together LLaMA API → Model Response → Display Out
 
 ## 📦 Installation
 
-### 1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/Deepakmity02/AI-Powered-Data-Analyst-Agent.git
 cd AI-Powered-Data-Analyst-Agent
 
-### 2. Install Dependencies**
+2. Install Dependencies
 pip install -r requirements.txt
 
-### 3. Set your API Key
+3. Set your API Key
 together.api_key = "tgp_v1_OtkB6oDYcGvbnScheGQXnuALP9bklewZ4SCm5iXrOJ4"
 
-### 4. Run the Streamlit App
+4. Run the Streamlit App
 streamlit run app.py
 
 
