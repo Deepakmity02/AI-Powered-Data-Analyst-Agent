@@ -35,7 +35,7 @@ cd AI-Powered-Data-Analyst-Agent
 pip install -r requirements.txt
 
 3. Set your API Key
-together.api_key = "tgp_v1_OtkB6oDYcGvbnScheGQXnuALP9bklewZ4SCm5iXrOJ4"
+together.api_key = "******************************"
 
 4. Run the Streamlit App
 streamlit run app.py
