@@ -28,5 +28,48 @@ User → Streamlit App → Together LLaMA API → Model Response → Display Out
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/ai-data-analyst-agent.git
-cd ai-data-analyst-agent
+git clone https://github.com/Deepakmity02/AI-Powered-Data-Analyst-Agent.git
+cd AI-Powered-Data-Analyst-Agent
+
+###2. Install Dependencies
+pip install -r requirements.txt
+
+###3. Set your API Key
+together.api_key = "tgp_v1_OtkB6oDYcGvbnScheGQXnuALP9bklewZ4SCm5iXrOJ4"
+
+###4. Run the Streamlit App
+streamlit run app.py
+
+
+📁 File Structure
+📦 AI Powered Data Analyst Agent
+├── app.py                  # Streamlit app
+├── requirements.txt        # Python dependencies
+├── metadata.csv            # Sample dataset
+└── README.md               # Project documentation
+
+🤖 Future Enhancements
+Add chat history/memory for previous questions
+
+Support multiple datasets
+
+Export analysis as PDF/Word reports
+
+Toggle between different LLMs (GPT, Claude, etc.)
+
+🪪 License
+This project is licensed under the MIT License.
+
+👤 Author
+Made with ❤️ by [Nalla Sai Deepak]
+For AI Agent assignment / personal learning project
+
+
+
+
+
+
+
+
+
+
